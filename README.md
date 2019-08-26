@@ -41,7 +41,11 @@ Initial version link
     
 generating home component
     
-    ng g c home  
+    ng g c home 
+    
+    ng g c weather-card
+    
+    ng g c add-card 
     
     
     
