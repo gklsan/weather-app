@@ -39,7 +39,9 @@ Initial version link
     
     ng serve -o 
     
+generating home component
     
+    ng g c home  
     
     
     
